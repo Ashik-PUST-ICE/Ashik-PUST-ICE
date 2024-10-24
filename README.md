@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>### Hi there 👋<br>I am Ashikur Rahman<br>#### A passionate laravel developer from Bangladesh.<br>- 🔭 I’m currently working on ecommerce project. <br>- 🌱 I’m currently learning  Laravel & VueJS.<br>- 👯 I’m looking to collaborate on github.<br>- 💬 Ask me about Web Development.<br><br><p>✔Prefered to be called by the name Ashik</p><br><br><h2>🤷‍♀️Things I do & like</h2><br>I love to problem solving and web development.<br>
+<br>###  Hi there 👋<br>I am Ashikur Rahman<br>#### A passionate laravel developer from Bangladesh.<br><br>- 🔭 I’m currently working on ecommerce project. <br>- 🌱 I’m currently learning  Laravel & VueJS.<br>- 👯 I’m looking to collaborate on github.<br>- 💬 Ask me about Web Development.<br><br><p>✔Prefered to be called by the name Ashik</p><br><br><h2>🤷‍♀️Things I do & like</h2><br>I love to problem solving and web development.<br>
 
 
 ## 🌐 Socials:
