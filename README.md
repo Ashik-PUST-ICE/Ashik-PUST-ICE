@@ -1,11 +1,8 @@
-# 💫 About Me
-### Hi there! 👋
-I’m **MD. Ashikur Rahman**, a passionate Laravel developer from Bangladesh.
+<h1 align="center">Hi 👋, I'm Md. Ashikur Rahman</h1>
+<h3 align="center">A passionate Full-stack web developer from Bangladesh</h3>
 
-- 🔭 **Currently working on**: **E-commerce Project**
-- 🌱 **Learning**: **Laravel & VueJS**
-- 👯 **Open to collaboration on**: **GitHub**
-- 💬 **Ask me about**: **Web Development**
+# 💫 About Me:
+- 🔭 I’m currently working on **Backend Technologis.**<br><br>- 🌱 I’m currently learning **Laravel & Veu JS**<br><br>- 💬 Ask me about **PHP Laravel MySQL**<br><br>- 📫 How to reach me **ashik.200607@s.pust.ac.bd**
 
 ---
 
