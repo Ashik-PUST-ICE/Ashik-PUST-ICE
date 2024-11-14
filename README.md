@@ -9,30 +9,10 @@
 - 💬 **Ask me about**: PHP, Laravel, MySQL<br>
 - 📫 **Reach me at**: ashik.200607@s.pust.ac.bd
 
----
-
-## 🎨 Preferred Name
-**Ashik**
-
-## 🤔 Things I Enjoy
-I love problem-solving and exploring the world of web development.
 
 ---
 
-## 🌐 Connect with Me
-<div align="center">
-  <a href="https://www.facebook.com/sopner.abir.58">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-ashikur-rahman-4789b6305/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/200607M">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
-  </a>
-</div>
 
----
 
 ## 💻 Tech Stack
 <div align="center">
