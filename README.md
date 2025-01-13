@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 - 🔭 **Currently working on**: Backend Technologies<br>
-- 🌱 **Learning**: Laravel & VueJS<br>
+- 🌱 **Learning**: Laravel & React<br>
 - 💬 **Ask me about**: PHP, Laravel, MySQL<br>
 - 📫 **Reach me at**: ashik.200607@s.pust.ac.bd
 
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="React.js" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
