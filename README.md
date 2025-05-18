@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 - 🔭 **Currently working on**: Backend Technologies<br>
-- 🌱 **Learning**: Laravel & React<br>
+- 🌱 **Learning**: Laravel & Veu Js<br>
 - 💬 **Ask me about**: PHP, Laravel, MySQL<br>
 - 📫 **Reach me at**: ashik.200607@s.pust.ac.bd
 
